@@ -1,0 +1,7 @@
+PySide6>=6.5
+yt-dlp>=2024.1.0
+mutagen>=1.46
+curl_cffi>=0.7    # requis par yt-dlp pour TikTok
+numpy>=1.24       # Studio
+scipy>=1.10       # Studio
+lameenc>=1.5      # Studio : export MP3
